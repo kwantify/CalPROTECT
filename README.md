@@ -10,4 +10,4 @@
 #
 # This report contains different sections that reflect various efforts across the CalPROTECT team throughout the COVID-19 pandemic, and data integrity and analysis were the responsibility ofeach CalPROTECT sub-team that led an arm of our team’s efforts.
 
-# File sizes were reduced on February 19, 2022 with no changes to content.
+# File sizes were reduced on February 19, 2023 with no changes to content.
