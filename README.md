@@ -9,3 +9,5 @@
 # CalPROTECT, a special project of Amend at UCSF, is an initiative across University of California, San Francisco and University of California, Berkeley. CalPROTECT is comprised of amultidisciplinary team of academics and healthcare professionals with expertise in clinicalmedicine, public health, epidemiology, economics, environmental and exposure science,public policy, infectious disease, health systems, geriatrics, and palliative care. 
 #
 # This report contains different sections that reflect various efforts across the CalPROTECT team throughout the COVID-19 pandemic, and data integrity and analysis were the responsibility ofeach CalPROTECT sub-team that led an arm of our team’s efforts.
+
+# File sizes were reduced on February 19, 2022 with no changes to content.
